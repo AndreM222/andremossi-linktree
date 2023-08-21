@@ -63,10 +63,7 @@ ul > li {
 }
 
 ul > li:hover {
-    box-shadow: #999a 7px 7px 0px 0px;
-    -webkit-box-shadow: #999a 7px 7px 0px 0px;
-    transform: translate(0.1em, 0.1em);
-    -webkit-transform: translate(0.1em, 0.1em);
+    background-color: #fffc;
 }
 
 ul > li:active {
