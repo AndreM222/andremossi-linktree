@@ -1,6 +1,6 @@
 <h1 align="center">My Link Tree</h1>
 
-link: <a href="https://andre-link.vercel.app/">`https://andre-link.vercel.app/`</a>
+link: <a href="https://andremossi-linktree.vercel.app/">`https://andremossi-linktree.vercel.app/`</a>
 
 <h2>Tools ⚒️</h2>
 
