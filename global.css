@@ -3,8 +3,7 @@ html {
     background: #0f0f0f;
     margin: 0;
     padding: 0;
-    font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka,
-        'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
