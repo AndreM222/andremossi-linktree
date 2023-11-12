@@ -1,5 +1,7 @@
 <h1 align="center">My Link Tree</h1>
 
+<img src="docs/LinkTree-Pic.jpeg"/>
+
 link: <a href="https://andremossi-linktree.vercel.app/">`https://andremossi-linktree.vercel.app/`</a>
 
 <h2>Tools ⚒️</h2>
